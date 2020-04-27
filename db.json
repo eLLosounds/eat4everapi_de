@@ -1,0 +1,157 @@
+{
+    "recepies": [
+        {
+            "id":"Coffe-shake",
+            "title":"How to make a Coffe-Shake",
+            "img": "/Coffe-shake.jpg",
+            "youtube":"https://www.youtube.com/embed/PiYQs7KIJik",
+            "ingredients": [
+                {
+                    "name":"Icecubes",
+                    "amount":"3-5"
+                },
+                {
+                    "name":"Espresso",
+                    "amount":"1 Cup"
+                },
+                {
+                    "name":"Milk",
+                    "amount": "1/2 Cup"
+                },
+                {
+                    "name":"Sugar",
+                    "amount":"1 tsp"
+                }
+            ],
+            "instructions": [
+                {
+                    "nr":"1.",
+                    "step":"Crush the Ice Cubes"
+                },
+                {
+                    "nr":"2.",
+                    "step":"Add Milk, Sugar, Espresso"
+                },
+                {
+                    "nr":"3.",
+                    "step":"Mix it all"
+                }
+            ]
+        },
+        {
+            "id":"Roasted Almonds",
+            "title":"Roasted Almonds",
+            "img": "/Roasted-Almonds.jpg",
+            "youtube":"https://www.youtube.com/embed/Yb9YNtva7Ko",
+            "ingredients": [
+                {
+                    "name":"Almonds",
+                    "amount":"As many as you want"
+                }
+            ],
+            "instructions": [
+                {
+                    "nr":"1.",
+                    "step":"Roast in the Ofen"
+                },
+                {
+                    "nr":"2.",
+                    "step":"Enjoy!"
+                }
+            ]
+        },
+        {
+            "id":"How make Chocolate mouse",
+            "title":"How make Chocolate mouse",
+            "img": "/Chocolate-mouse.jpg",
+            "youtube":"https://www.youtube.com/embed/DSbSPeuo",
+            "ingredients": [
+                {
+                    "name":"Chocolate Powder",
+                    "amount":"1-2 EL"
+                },
+                {
+                    "name":"Cream",
+                    "amount":"1dl"
+                }
+            ],
+            "instructions": [
+                {
+                    "nr":"1.",
+                    "step":"Beat until Firm"
+                },
+                {
+                    "nr":"2.",
+                    "step":"Enjoy!"
+                }
+            ]
+        },
+        {
+            "id":"How to cook a Turkey Breast",
+            "title":"How to cook a Turkey Breast",
+            "img": "/How to cook a Turkey Breast.jpg",
+            "youtube":"https://www.youtube.com/embed/qMMek6gj-w4",
+            "ingredients": [
+                {
+                    "name":"Paprika",
+                    "amount":"a lot of"
+                },
+                {
+                    "name":"Lemon",
+                    "amount":"1"
+                },
+                {
+                    "name":"Ginger",
+                    "amount":"2-3 cm"
+                },
+                {
+                    "name":"Ginger",
+                    "amount":"2-3 cm"
+                },
+                {
+                    "name":"Garlic",
+                    "amount":"a lot of"
+                },
+                {
+                    "name":"onions",
+                    "amount":"a lot of"
+                },
+                {
+                    "name":"Vegetables",
+                    "amount":"a lot of different"
+                },
+                {
+                    "name":"Olive Oil",
+                    "amount":"As much as it needs"
+                }
+            ],
+            "instructions": [
+                {
+                    "nr":"1.",
+                    "step":"salt well"
+                },
+                {
+                    "nr":"2.",
+                    "step":"sprinkle a lot of paprika"
+                },
+                {
+                    "nr":"3.",
+                    "step":"Squezze Lemon over it"
+                },
+                {
+                    "nr":"4.",
+                    "step":"Grate Ginger over it"
+                },
+                {
+                    "nr":"5.",
+                    "step":"Cut onions, garlic and vegetables as you like, spread them around the turkey breast with a little olive oil and salt"
+                },
+                {
+                    "nr":"6.",
+                    "step":"Enjoy!"
+                }
+
+            ]
+        }
+    ]
+}
